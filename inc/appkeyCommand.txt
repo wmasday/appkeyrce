@@ -1,0 +1,10 @@
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=1 function=system
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=2 function=system
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=3 function=system
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=4 function=system
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=1 function=passthru
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=2 function=passthru
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=3 function=passthru
+cmd="echo  'dHJ1c3RzZWMweDA3Nzc=' | base64 --decode" method=4 function=passthru
+cmd="echo base64_decode('dHJ1c3RzZWMweDA3Nzc=');" method=5
+cmd="echo base64_decode('dHJ1c3RzZWMweDA3Nzc=');" method=6
